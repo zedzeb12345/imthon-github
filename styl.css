@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 100%;
+    height: 45vh;
+    display: flex;
+    justify-content: space-around;
+  }
+  .container .box1 {
+    width: 648px;
+    height: 300px;
+    top: 994px;
+    left: 300px;
+    border-radius: 20px;
+    background-color: #011864;
+    display: flex;
+  }
+  .container .box1 .box2 {
+    width: 50%;
+    height: 300px;
+    padding: 15px;
+  }
+  .container .box1 .box2 h1 {
+    width: 231px;
+    height: 104px;
+    top: 1024px;
+    left: 350px;
+    color: #FFFFFF;
+  }
+  .container .box1 .box2 p {
+    width: 176px;
+    height: 29px;
+    top: 147px;
+    left: 350px;
+    font-size: 22px;
+    color: #FFFFFF;
+    font-weight: 600;
+  }
+  .container .box1 .box2 button {
+    width: 150px;
+    height: 48px;
+    top: 1208px;
+    left: 350px;
+    border-radius: 1000px;
+    border: hidden;
+    font-weight: 800;
+    font-size: 14px;
+  }
+  .container .box3 {
+    width: 648px;
+    height: 300px;
+    top: 994px;
+    left: 300px;
+    border-radius: 20px;
+    background-color: #f7bf09;
+    display: flex;
+  }
+  .container .box3 .box4 {
+    width: 50%;
+    height: 300px;
+    padding: 15px;
+  }
+  .container .box3 .box4 h1 {
+    width: 231px;
+    height: 104px;
+    top: 1024px;
+    left: 350px;
+    color: #004743;
+  }
+  .container .box3 .box4 p {
+    width: 176px;
+    height: 29px;
+    top: 147px;
+    left: 350px;
+    font-size: 22px;
+    font-weight: 600;
+  }
+  .container .box3 .box4 button {
+    width: 150px;
+    height: 48px;
+    top: 1208px;
+    left: 350px;
+    border-radius: 1000px;
+    border: hidden;
+    font-size: 14px;
+    font-weight: 800;
+  }
